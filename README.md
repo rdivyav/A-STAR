@@ -20,6 +20,7 @@
    d. push q on the closed list end (while loop)
    
 <h3>Program:</h3>
+
 ```
 from collections import defaultdict
 H_dist ={}
